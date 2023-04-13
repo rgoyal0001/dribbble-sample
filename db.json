@@ -1,0 +1,73 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "name": "John",
+      "admin":true,
+      "email":"john0001@admin.com",
+      "password": "john@0001",
+      "facebook":"john.facebook.com",
+      "instagram":"john.instagram.com",
+      "linkdin":"john.linkdin.com"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "name": "Wilson Sanchez",
+      "address": "Tegucigalpa, Honduras",
+      "about":"UI / Visual Design, Product Design, Web Design",
+      "shots":[
+        {
+          "id":1,
+          "image":"https://cdn.dribbble.com/users/594983/screenshots/19162157/media/5970dfe2a47a8956030b33afcbd1b533.jpg?compress=1&resize=1000x750&vertical=top",
+          "title":"Travel Destination Landing Page",
+          "description":"Landing page for travel agency services with destination tours details",
+          "liked":false
+        },
+        {
+          "id":2,
+          "image":"https://cdn.dribbble.com/users/594983/screenshots/6517555/homepage-small.jpg?compress=1&resize=800x600&vertical=top",
+          "title":"Consultancy Agency Homepage",
+          "description":"Homepage for Cloud Transformation Group. A Digital Transformation Consultancy that helps business with forensic analysis that allows innovation, people and technology to be incorporated into process and operations.",
+          "liked":false
+        },
+        {
+          "id":3,
+          "image":"https://cdn.dribbble.com/users/594983/screenshots/6489340/services-section.jpg?compress=1&resize=800x600&vertical=top",
+          "title":"Services Section",
+          "description":"",
+          "liked":false
+        },
+        {
+          "id":4,
+          "image":"https://cdn.dribbble.com/users/594983/screenshots/18234022/media/4419f1b6cc6fe8038ab7bbbb0c89dcc8.png?compress=1&resize=840x630&vertical=top",
+          "title":"Intranet Social Feed",
+          "description":"Hi, Feed dashboard and social hub proposal for an Intranet platform.",
+          "liked":false
+        },
+        {
+          "id":5,
+          "image":"https://cdn.dribbble.com/users/594983/screenshots/4950951/connect-thumb.jpg?compress=1&resize=400x300&vertical=top",
+          "title":"Connections Landing Page",
+          "description":"Landing page to promote network connections for students and teachers. Check the attachment for full details.",
+          "liked":false
+        },
+        {
+          "id":6,
+          "image":"https://cdn.dribbble.com/users/594983/screenshots/6477701/about-us.jpg?compress=1&resize=800x600&vertical=top",
+          "title":"About Us Section",
+          "description":"",
+          "liked":false
+        },
+        {
+          "id":7,
+          "image":"https://cdn.dribbble.com/users/594983/screenshots/15640874/media/e9cbef50a0d02264be78da80886ed456.png?compress=1&resize=840x630&vertical=top",
+          "title":"Student Portal Calendar",
+          "description":"Hi all! Playing a little big with the glass effect for a Student Portal calendar.",
+          "liked":false
+        }
+      ]
+    }
+  ]
+}
